@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "know about laravel",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia vel mollitia pariatur facilis dolorem? Iure itaque aspernatur culpa vero necessitatibus repellendus ullam ipsum veritatis debitis, nemo, esse, explicabo fuga omnis.",
+      "tags": [
+        "laravel",
+        "coding"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "This is a post about hooks",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia vel mollitia pariatur facilis dolorem? Iure itaque aspernatur culpa vero necessitatibus repellendus ullam ipsum veritatis debitis, nemo, esse, explicabo fuga omnis.",
+      "tags": [
+        "hooks",
+        "javascript"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lets take a look at javascript basic",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia vel mollitia pariatur facilis dolorem? Iure itaque aspernatur culpa vero necessitatibus repellendus ullam ipsum veritatis debitis, nemo, esse, explicabo fuga omnis.",
+      "tags": [
+        "basicJS",
+        "js"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lets introduce React",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia vel mollitia pariatur facilis dolorem? Iure itaque aspernatur culpa vero necessitatibus repellendus ullam ipsum veritatis debitis, nemo, esse, explicabo fuga omnis.",
+      "tags": [
+        "react",
+        "frontend"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Vue js is the key",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia vel mollitia pariatur facilis dolorem? Iure itaque aspernatur culpa vero necessitatibus repellendus ullam ipsum veritatis debitis, nemo, esse, explicabo fuga omnis.",
+      "tags": [
+        "vuejs",
+        "vuesnippet"
+      ]
+    }
+  ]
+}
